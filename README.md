@@ -1,8 +1,7 @@
-# React + Vite
+## Challenge #13 of Advent of Javascript 2024 by Amy Dutton
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+(https://store.selfteach.me/)
 
-Currently, two official plugins are available:
+The challenge was to build a temperature converter Celsius / Fahrenheit with a circular dragging handle
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+I chose to do it with React
